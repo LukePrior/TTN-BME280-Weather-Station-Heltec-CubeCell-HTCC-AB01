@@ -8,6 +8,10 @@ This code is for a BME280 sensor attached to the Heltec CubeCell HTCC-AB01 via i
 
 Download this repository and open the main.ino file in the Arduino IDE, enter your TTN Dev EUI, App EUI, App Key, and upload the project to your CubeCell HTCC-AB01. The CubeCell HTCC-AB01 needs to be preconfigured in the Arduino board manager to set your LoRaWAN region and enable OTAA authentification.
 
+# DIYODE Magazine Article
+
+[Off-Grid LoRaWAN Weather Station](https://diyodemag.com/projects/long_range_report_off-grid_lorawan_weather_station)
+
 # License
 
 This project is licensed under the MIT License. This project contains code from [chrisys/mini-lora-weatherstation](https://github.com/chrisys/mini-lora-weatherstation).
